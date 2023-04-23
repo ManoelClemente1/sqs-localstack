@@ -3,7 +3,7 @@
 Build AWS infrastructure with LocalStack enables faster local development without the need to incur infrastructure expenses, test AWS resource locally and debug locally
 
 ## Pre-requisites
-To be able to up a AWS Infrastructure with Localstack, make sure you have docker installed, I'm using [this version](https://www.docker.com/products/docker-desktop/)
+To be able to up a AWS Infrastructure with Localstack, make sure you have docker installed, I'm using [this version](https://www.docker.com/products/docker-desktop/) and configure file .aws/credentials, if you dont have this file, you can create with aws_access_key_id = test, aws_secret_access_key = test and region = test.
 
 ## Usage
 
