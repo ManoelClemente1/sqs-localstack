@@ -1,5 +1,5 @@
 
-# SQS Queue, DynameDB with LocalStack
+# SQS Queue, DynamoDB with LocalStack
 Build AWS infrastructure with LocalStack enables faster local development without the need to incur infrastructure expenses, test AWS resource locally and debug locally
 
 ## Pre-requisites
